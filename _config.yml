@@ -3,3 +3,4 @@ description: As developers we should strive to be lazy.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+color-scheme: dark
